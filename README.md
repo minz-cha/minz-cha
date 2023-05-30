@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 📲 **SNS & BLOG** 📲
 
-<a href="https://www.instagram.com/mmmin._.zz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="[https://velog.io/@realhsb](https://velog.io/@minz-cha)"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://www.instagram.com/mmmin._.zz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="[https://velog.io/@minz-cha](https://velog.io/@minz-cha)"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 </br>
 
