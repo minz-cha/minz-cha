@@ -34,12 +34,13 @@ Here are some ideas to get you started:
 
 </br>
 
-🛠️ **COWORK TOOLS** 🛠️
+🛠️ **ETC** 🛠️
 
 ![github](https://img.shields.io/badge/MongoDB-181717.svg?&style=for-the-badge&logo=github&logoColor=white) 
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white) 
 ![postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white) 
+![swagger](https://img.shields.io/badge/swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white) 
 
 </br>
 
