@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 </br>
 
-🗯️ **INFO** 🗯️
+<!--🗯️ **INFO** 🗯️-->
 
 
 <!--
@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minz-cha&langs_count=5&layout=compact&theme=dark)](https://github.com/minz-cha)-->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=demin1026)](https://solved.ac/demin1026/) 
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=demin1026)](https://solved.ac/demin1026/) -->
 
 </div>
